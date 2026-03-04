@@ -215,3 +215,4 @@ __pycache__/*
 .claude*
 .env*
 .env
+printify*
